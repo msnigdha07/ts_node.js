@@ -50,7 +50,6 @@ Status: Planned
 
 ### Resources
 - [YouTube Tutorials](https://youtu.be/TlB_eWDSMt4?si=0HJfMc6x4jK0xF3n)
-- [Udemy courses]
   
 
 
